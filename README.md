@@ -2,6 +2,4 @@
 
 * Data from Images in Outlook Email Attachments can be extracted and stored using R 
 
-![alt text](https://github.com/smazurski/ExtractEmailData/blob/main/Inventory.png?raw=true)
-
-* From this image, I was particularly interested in the data from the left-hand column
+* The .R file in this repository will sort through Outlook emails with certain subject lines, save and read the /n attachments, and extract the information to a data frame. 
