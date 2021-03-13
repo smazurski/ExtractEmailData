@@ -1,4 +1,4 @@
-# Extract Data From Email Image Attachments 
+# Extract Data From Images in Outlook Email Attachments 
 
 * Data from Images in Outlook Email Attachments can be extracted and stored using R 
 
