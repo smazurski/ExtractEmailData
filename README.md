@@ -5,6 +5,9 @@
 * The .R file in this repository will extract images within Outlook emails and save the information to an R data frame. 
 
 
+
+
+
 From this email:
 ![alt text](https://github.com/smazurski/ExtractEmailData/blob/main/inventory_email.PNG?raw=true) 
 
