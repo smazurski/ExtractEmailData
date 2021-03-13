@@ -6,7 +6,7 @@
 
 
 From this email:
-![alt text](https://github.com/smazurski/ExtractEmailData/blob/main/Inventory_Email.PNG?raw=true) 
+![alt text](https://github.com/smazurski/ExtractEmailData/blob/main/inventory_email.PNG?raw=true) 
 
 
 We can convert this:
